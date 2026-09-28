@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build and test output
+build/
+dist/
+target/
+out/
+coverage/
+
+# Temporary files
+*.log
+*.tmp
+tmp/
+
