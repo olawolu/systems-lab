@@ -4,6 +4,8 @@
 
 - [ ] Understand processes, virtual memory, filesystems, scheduling, and isolation.
 
+Apply the repository-wide learning loop: implementation and invariant tests come before broad reading; failure injection, instrumentation, benchmarking, comparison, and a retrospective are required before completion.
+
 ## Primary resources
 
 - TODO: choose a textbook, kernel source, lecture series, and implementation references.
@@ -23,4 +25,3 @@
 ## Completion criteria
 
 - TODO: define the implementation, benchmark, failure, and explanation required to move on.
-

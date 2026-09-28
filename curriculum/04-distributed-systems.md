@@ -4,6 +4,8 @@
 
 - [ ] Understand clocks, failure models, replication, consensus, consistency, and coordination.
 
+Apply the repository-wide learning loop: implementation and invariant tests come before broad reading; failure injection, instrumentation, benchmarking, comparison, and a retrospective are required before completion.
+
 ## Primary resources
 
 - TODO: choose a textbook, lecture series, papers, and implementation references.
@@ -23,4 +25,3 @@
 ## Completion criteria
 
 - TODO: define the implementation, benchmark, failure, and explanation required to move on.
-
